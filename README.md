@@ -15,8 +15,37 @@ Case 4: In correct Password and correct filename in post method
 
 OUTPUT SCREENSHOTS for all the above scenarios.
 
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/1.png)
 
 
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/2png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/3.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/4.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/5.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/6.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/7.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/8.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/9.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/10.png)
+
+
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/11.png)
 
 
 
