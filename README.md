@@ -18,7 +18,7 @@ OUTPUT SCREENSHOTS for all the above scenarios.
 ![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/1.png)
 
 
-![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/2png)
+![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/2.png)
 
 
 ![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/3.png)
