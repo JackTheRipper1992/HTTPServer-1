@@ -1,9 +1,18 @@
 HTTP SERVER:
 
-please go through the IpAsignment2.pdf to understand clearly.
+
+Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
+
+Created a simple Java client that sends a HEAD request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test  implementation.
+
+Implemented the POST method, by making the necessary changes in RequestProcessor.java
 
 
-Testing Scenarios for HTTP Server (JHTTP.java)
+Created a simple Java client that sends a POST request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test your implementation.
+
+
+
+Testing Scenarios:
 
 Case 1 : correct filename and correct username and password in post method Correct filename in head method
 
@@ -48,5 +57,6 @@ OUTPUT SCREENSHOTS for all the above scenarios.
 ![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/11.png)
 
 
+please go through the IpAsignment2.pdf to understand clearly.
 
 
