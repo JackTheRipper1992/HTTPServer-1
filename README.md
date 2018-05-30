@@ -3,6 +3,9 @@
 
 </br>
 
+  Introduction:
+
+
   HEAD METHOD: 
 
   The HEAD method is used to ask only for information about a document. So implemented head method below just check whether client requested file is present or not and basing on that sends XML response. 
@@ -10,7 +13,7 @@
 
   POST METHOD:
 
-   By design, the POST request method requests that a web server accepts the data enclosed in the body of the request message, most likely for storing it. It is often used when uploading a file or when submitting a completed web form.
+  By design, the POST request method requests that a web server accepts the data enclosed in the body of the request message, most likely for storing it. It is often used when uploading a file or when submitting a completed web form.
 
 
   Here implemented a POST method where it retrives username and password sent by client from the request body and then validates it with local database and then check for resource client request 
@@ -27,18 +30,21 @@
   (please check screen shots below)
 
 
-Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
+  Requirements for the Assignment:
 
 
-Implemented the POST method, by making the necessary changes in RequestProcessor.java
+Implement the HEAD method, by making the necessary changes in RequestProcessor.java
+
+
+Implement the POST method, by making the necessary changes in RequestProcessor.java
 
 
 
-Created a simple Java client that sends a HEAD request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test  implementation.
+Create a simple Java client that sends a HEAD request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test your implementation.
 
 
 
-Created a simple Java client that sends a POST request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test your implementation.
+Create a simple Java client that sends a POST request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test your implementation.
 
 
 
