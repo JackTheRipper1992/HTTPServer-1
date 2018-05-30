@@ -1,9 +1,11 @@
-HTTP SERVER:
+                     HTTP SERVER
 
 
 Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
 
+
 Created a simple Java client that sends a HEAD request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test  implementation.
+
 
 Implemented the POST method, by making the necessary changes in RequestProcessor.java
 
@@ -12,17 +14,23 @@ Created a simple Java client that sends a POST request to  revised JHTTP server 
 
 
 
+
 Testing Scenarios:
 
 Case 1 : correct filename and correct username and password in post method Correct filename in head method
 
+
 Case 2: In correct filename and correct username and password in post method In Correct filename in head method
+
 
 Case 3: In correct username and correct filename in post method 
 
+
 Case 4: In correct Password and correct filename in post method
 
+
 OUTPUT SCREENSHOTS for all the above scenarios.
+
 
 ![alt text](https://github.com/RepakaRamateja/HTTP-Server/blob/master/Images/1.png)
 
