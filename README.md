@@ -1,4 +1,4 @@
-                     HTTP SERVER
+                                  HTTP SERVER
 
 
 Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
