@@ -33,8 +33,8 @@
 </br>
 
 
-                   Requirements for the Assignment:
-                   
+                          Requirements for the Assignment:
+
 
 
 Implement the HEAD method, by making the necessary changes in RequestProcessor.java
@@ -54,6 +54,7 @@ Create a simple Java client that sends a POST request to  revised JHTTP server (
 
 
 Testing Scenarios:
+
 
 Case 1 : correct filename and correct username and password in post method Correct filename in head method
 
