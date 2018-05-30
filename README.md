@@ -30,7 +30,11 @@
   (please check screen shots below)
 
 
-  Requirements for the Assignment:
+</br>
+
+
+                   Requirements for the Assignment:
+                   
 
 
 Implement the HEAD method, by making the necessary changes in RequestProcessor.java
