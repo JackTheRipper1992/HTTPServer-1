@@ -6,10 +6,12 @@
 Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
 
 
+Implemented the POST method, by making the necessary changes in RequestProcessor.java
+
+
+
 Created a simple Java client that sends a HEAD request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test  implementation.
 
-
-Implemented the POST method, by making the necessary changes in RequestProcessor.java
 
 
 Created a simple Java client that sends a POST request to  revised JHTTP server (JHTTP.java & RequestProcessor.java) to test your implementation.
