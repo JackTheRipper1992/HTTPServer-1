@@ -3,6 +3,29 @@
 
 </br>
 
+ HEAD METHOD: 
+
+  The HEAD method is used to ask only for information about a document. So implemented head method below just check whether client requested file is present or not and basing on that sends XML response. 
+
+ POST METHOD:
+
+  By design, the POST request method requests that a web server accepts the data enclosed in the body of the request message, most likely for storing it. It is often used when uploading a file or when submitting a completed web form.
+
+  Here implemented a POST method where it retrives username and password
+  sent by client from the request body and then validates it with local
+  database and then check for resource client request 
+
+  if yes then gives the file contents 
+
+  else send error response in the form of XML
+
+  if username and password are not valid itself then it throws
+
+  401 unauthorised expection and then error response in form of XML.
+
+  (please check screen shots below)
+
+
 Implemented the HEAD method, by making the necessary changes in RequestProcessor.java
 
 
